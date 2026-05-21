@@ -117,6 +117,6 @@ Dashboard Page
 (Add screenshot here)
  Author
 
-Built by Nassy
+Built by Sarah Nabayi
 
 This project was created while learning backend development and authentication systems using Flask.
